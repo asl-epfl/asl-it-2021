@@ -3,7 +3,7 @@
 
 This code can be used to generate simulations similar to Figs. 1, 2, 3, 4, 6, 7, 8, 9, 10, 12 and 13 in the following paper:
 
-Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Adaptive social learning,'' in IEEE Transactions on Information Theory, 2021. [![DOI:10.1109/TIT.2021.3094633](https://zenodo.org/badge/DOI/10.5281/zenodo.4585904.svg)](https://doi.org/10.1109/TIT.2021.3094633)
+Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Adaptive social learning,'' in IEEE Transactions on Information Theory, 2021. [![DOI:10.1109/TIT.2021.3094633](https://zenodo.org/badge/DOI/10.1109/TIT.2021.3094633.svg)](https://doi.org/10.1109/TIT.2021.3094633)
 
 Figs. 1 and 2 are generated executing file 'figs1_2.py'.
 
